@@ -1,0 +1,23 @@
+html{
+    display:flex; flex-direction:column; justify-content:center;
+    margin-inline: 33%;
+    margin-top: 10%;
+    background: black;
+  }
+body{
+    font-family: 'Roboto', sans-serif;
+    border: 0px;
+    margin-left: 120px;
+    margin-right: 120px;
+    background-color: white;
+}
+h1{
+    font-size: medium;
+}
+h2{
+    font-size: medium;
+    font-weight: 400;
+}
+.miboton{
+    background-color: aquamarine;
+}
